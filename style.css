@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+    background-color: #987800;
+}
+
+.camel {
+    background-color: #01a090;
+}
+
+.chameleon {
+    background-color: #ab9b8a;
+}
+
+.cicada {
+    background-color: #78c4dc;
+}
+
+.panda {
+    background-color: #09cf87;
+}
+
+.pigeon {
+    background-color: #ccdd7782;
+}
+
+.teddy {
+    background-color: #9239d8;
+}
